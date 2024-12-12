@@ -1,0 +1,3 @@
+client1
+casa,masa,trei,tanc,4321
+1
